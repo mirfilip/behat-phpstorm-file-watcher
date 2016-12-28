@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TaskOptions>
   <TaskOptions>
-    <option name="arguments" value="$FilePath$ --format progress --strict" />
+    <option name="arguments" value="$FilePath$ --format progress --strict --colors" />
     <option name="checkSyntaxErrors" value="true" />
     <option name="description" value="Runs the Behat test every time a feature file is changed" />
     <option name="exitCodeBehavior" value="ALWAYS" />
